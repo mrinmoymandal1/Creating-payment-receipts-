@@ -47,7 +47,7 @@ title_style = styles["Heading1"]
 title_style.alignment = 1
 
 # Creating a paragraph with the heading text and applying the styles
-title = Paragraph("GeeksforGeeks", title_style)
+title = Paragraph("pyc coder", title_style)
 
 # Creating TableStyle object and defining styles row-wise
 style = TableStyle(
